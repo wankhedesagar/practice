@@ -1,3 +1,3 @@
-public class Diff{
-    
+public class Sum{
+
 }
